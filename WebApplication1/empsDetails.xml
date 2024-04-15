@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<emps>
+	<emp name="ahmed" id="1" salary="1000" address="Amman" color="Red" phone="202145554555"/>
+	<emp name="Omar" id="2"  salary="900" address="Irbid" color="Navy" phone="202145555775"/>
+	<emp name="Musa" id="3" salary="1700" address="Jarash" color="Gold" phone="202777754555"/>
+	<emp name="Reem" id="4" salary="6000" address="Ajloun" color="Green" phone="202777554555"/>
+	<emp name="Saja" id="5" salary="500" address="Aqaba" color="Blue" phone="202145888884555"/>
+	<emp name="Noor" id="6" salary="2500" address="Zarqa" color="Orange" phone="20216666554555"/>
+	<emp name="Lama" id="7" salary="2000" address="Salt" color="Pink" phone="20200000555"/>
+	<emp name="ahmed" id="8" salary="1000" address="Amman" color="Red" phone="20200888555"/>
+	<emp name="Omar" id="9" salary="900" address="Irbid" color="Navy" phone="20214588855"/>
+	<emp name="Musa" id="10" salary="1700" address="Jarash" color="Gold" phone="2029999554555"/>
+	<emp name="Reem" id="11" salary="6000" address="Ajloun" color="Green" phone="202143333555"/>
+	<emp name="Saja" id="12" salary="500" address="Aqaba" color="Blue" phone="202142222555"/>
+	<emp name="Noor" id="13" salary="2500" address="Zarqa" color="Orange" phone="2021111554555"/>
+	<emp name="Lama" id="14" salary="2000" address="Salt" color="Pink" phone="202141010014555"/>
+	<emp name="ahmed" id="15" salary="1000" address="Amman" color="Red" phone="2020202020254555"/>
+	<emp name="Omar" id="16" salary="900" address="Irbid" color="Navy" phone="202030303354555"/>
+	<emp name="Musa" id="17" salary="1700" address="Jarash" color="Gold" phone="2021405505555"/>
+	<emp name="Reem" id="18" salary="6000" address="Ajloun" color="Green" phone="20245545454544555"/>
+	<emp name="Saja" id="19" salary="500" address="Aqaba" color="Blue" phone="2021455989989855"/>
+	<emp name="Noor" id="20" salary="2500" address="Zarqa" color="Orange" phone="20215656656554555"/>
+	<emp name="Lama" id="21" salary="2000" address="Salt" color="Pink" phone="202145577777555"/>
+</emps>

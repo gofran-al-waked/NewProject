@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+	<Ad>
+		<ImageUrl>Images\images.jpg</ImageUrl>
+		<AlternateText>google</AlternateText>
+		<NavigateUrl>http://www.google.com</NavigateUrl>
+	</Ad>
+
+	<Ad>
+		<ImageUrl>Images\images (1).jpg</ImageUrl>
+		<AlternateText>facebook</AlternateText>
+		<NavigateUrl>http://www.facebook.com</NavigateUrl>
+	</Ad>
+
+	<Ad>
+		<ImageUrl>Images\images.png</ImageUrl>
+		<AlternateText>youtube</AlternateText>
+		<NavigateUrl>http://www.youtube.com</NavigateUrl>
+	</Ad>
+</Advertisements>

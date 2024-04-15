@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<colors>
+	<color txt="White" val="#ffffff"/>
+	<color txt="Black" val="#000000"/>
+	<color txt="Gray" val="#aaaaaa"/>
+	<color txt="Red" val="#ff0000"/>
+	<color txt="Green" val="#00ff00"/>
+	<color txt="Blue" val="#0000ff"/>
+</colors>
