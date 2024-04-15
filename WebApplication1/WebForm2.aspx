@@ -50,7 +50,7 @@
             <br />
             <strong>
             <asp:HyperLink ID="HyperLink1" runat="server" CssClass="auto-style3" NavigateUrl="~/WebForm1.aspx">Back</asp:HyperLink>
-            &nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <asp:Button ID="BtnShowSession" runat="server" CssClass="auto-style4" OnClick="BtnShowSession_Click" Text="Show Session" />
             <asp:Label ID="LSession" runat="server" CssClass="auto-style5"></asp:Label>
             </strong>
