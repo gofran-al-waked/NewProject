@@ -39,7 +39,7 @@
             <br />
             <br />
             <strong>
-            <asp:HyperLink ID="HyperLink1" runat="server" CssClass="auto-style3" NavigateUrl="~/WebForm1.aspx">Back</asp:HyperLink>
+            <asp:HyperLink ID="HyperLink1" runat="server" CssClass="auto-style3" NavigateUrl="~/WebForm1.aspx">Back To</asp:HyperLink>
             </strong>
         </div>
    </form>
