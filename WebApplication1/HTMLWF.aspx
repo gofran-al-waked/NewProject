@@ -174,7 +174,7 @@
         <p>
             <asp:LinkButton ID="LinkButton6" runat="server">LinkButton</asp:LinkButton>
         </p>
-        <asp:LinkButton ID="LinkButton2" runat="server">LinkButton</asp:LinkButton>
+        <asp:LinkButton ID="LinkButton2" runat="server">LinkButton2</asp:LinkButton>
         <br />
         <br />
         <asp:Button ID="BtnChangeExternalCss" runat="server" OnClick="BtnChangeExternalCss_Click" Text="Change External CSS" />
